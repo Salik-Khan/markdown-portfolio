@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- [ ] Free Fire.
+- [ ] Pizza
+- [ ] Burger
+- [ ] Chicken Roll
+- [ ] Build a gaming PC
