@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__*FF* *Veteran*__
+
+__*Football Skills*__
+
+__*Mathematical Skills*__
+
+__*Java-Script*__
+
+__*Intermediate Level Of HTML*__
+
+__*Understanding A Little Bit Of Python*__
