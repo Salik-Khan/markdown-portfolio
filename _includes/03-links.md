@@ -1,1 +1,1 @@
-https://github.com/Salik-Khan
+[Salik Khan](https://github.com/Salik-Khan)
